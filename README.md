@@ -7,3 +7,4 @@
 |1697|숨바꼭질(hide&seek)|✅|❎|  
 |11726|2xn타일링(2xn tiling)|✅|❎|  
 |16958|텔레포트(teleport)|✅|❎|  
+|1389|케빈베이컨의6단계법칙(The Six Degrees of Kevin bacon|✅|❎|  
