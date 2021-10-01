@@ -1,4 +1,5 @@
 # Algorithm
+<img src="https://cdn.discordapp.com/attachments/837197524989116469/893160736979828756/nice-old-man.gif"/>
 
 😎 I have done...  
 ## [BOJ]  
