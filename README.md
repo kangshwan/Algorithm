@@ -28,3 +28,4 @@
 
 # [Specific Algorithm]
 [Dijkstra](https://github.com/kangshwan/Algorithm/blob/main/Specific%20Algorithm/Dijkstra)
+[Kosaraju-Sharir](https://github.com/kangshwan/Algorithm/blob/main/Specific%20Algorithm/Kosaraju-Sharir)
