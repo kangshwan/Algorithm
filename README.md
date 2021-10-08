@@ -1,7 +1,7 @@
 # Algorithm
 <img src="https://cdn.discordapp.com/attachments/837197524989116469/893160736979828756/nice-old-man.gif"/>
 
-😎 I have done...  
+😎 I have done....  
 ## [BOJ]  
 |num|name|![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)|![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)|
 |:---:|:---|:---:|:---:|  
