@@ -2,6 +2,10 @@
 <img src="https://cdn.discordapp.com/attachments/837197524989116469/893160736979828756/nice-old-man.gif"/>
 
 😎 I have done....  
+
+<!-- 
+|번호|[이름](https://www.acmicpc.net/problem/번호)|[⭕](./BOJ/cpp/번호_이름.cpp)|❌|  
+-->
 ## [BOJ]  
 |num|name|![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)|![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)|
 |:---:|:---|:---:|:---:|  
@@ -21,10 +25,15 @@
 |1260|[DFS와BFS](https://www.acmicpc.net/problem/1260)|⭕|⭕|
 |1263|[시간관리](https://www.acmicpc.net/problem/1152)|[⭕](https://github.com/kangshwan/Algorithm/blob/main/BOJ/cpp/1263_시간관리.cpp)|❌|  
 |1389|[케빈베이컨의6단계법칙](https://www.acmicpc.net/problem/1389)|[⭕](https://github.com/kangshwan/Algorithm/blob/main/BOJ/cpp/1389_케빈베이컨의6단계법칙.cpp)|❌|  
+|1476|[날짜계산](https://www.acmicpc.net/problem/1476)|[⭕](./BOJ/cpp/1476_날짜계산.cpp)|❌|
 |1697|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[⭕](https://github.com/kangshwan/Algorithm/blob/main/BOJ/cpp/1697_숨바꼭질.cpp)|❌|  
+|2309|[일곱난쟁이](https://www.acmicpc.net/problem/2309)|[⭕](./BOJ/cpp/2309_일곱난쟁이.cpp)|❌|  
 |2750|[수 정렬하기](https://www.acmicpc.net/problem/2750)|[⭕](https://github.com/kangshwan/Algorithm/blob/main/BOJ/cpp/2750_수정렬하기.cpp)|❌|  
 |11047|[동전0](https://www.acmicpc.net/problem/11047)|[⭕](https://github.com/kangshwan/Algorithm/blob/main/BOJ/cpp/11047_동전0.cpp)|❌|  
+|3003|[킹,퀸,룩,비숍,나이트,폰](https://www.acmicpc.net/problem/3003)|[⭕](./BOJ/cpp/3003_킹,퀸,룩,비숍,나이트,폰.cpp)|❌|  
+|10813|[공바꾸기](https://www.acmicpc.net/problem/10813)|[⭕](./BOJ/cpp/10813_공바꾸기.cpp)|❌|  
 |11726|[2xn타일링](https://www.acmicpc.net/problem/11726)|[⭕](https://github.com/kangshwan/Algorithm/blob/main/BOJ/cpp/11726_2xn타일링.cpp)|❌|  
+|16500|[문자열판별](https://www.acmicpc.net/problem/16500)|[⭕](./BOJ/cpp/16500_문자열판별.cpp)|❌|  
 |16958|[텔레포트](https://www.acmicpc.net/problem/16958)|[⭕](https://github.com/kangshwan/Algorithm/blob/main/BOJ/cpp/16958_텔레포트.cpp)|❌|  
 
 
