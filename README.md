@@ -30,9 +30,9 @@
 |1697|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[⭕](./BOJ/cpp/1697_숨바꼭질.cpp)|❌|  
 |2309|[일곱난쟁이](https://www.acmicpc.net/problem/2309)|[⭕](./BOJ/cpp/2309_일곱난쟁이.cpp)|❌|  
 |2750|[수 정렬하기](https://www.acmicpc.net/problem/2750)|[⭕](./BOJ/cpp/2750_수정렬하기.cpp)|❌|  
-|11047|[동전0](https://www.acmicpc.net/problem/11047)|[⭕](./BOJ/cpp/11047_동전0.cpp)|❌|  
 |3003|[킹,퀸,룩,비숍,나이트,폰](https://www.acmicpc.net/problem/3003)|[⭕](./BOJ/cpp/3003_킹,퀸,룩,비숍,나이트,폰.cpp)|❌|  
 |10813|[공바꾸기](https://www.acmicpc.net/problem/10813)|[⭕](./BOJ/cpp/10813_공바꾸기.cpp)|❌|  
+|11047|[동전0](https://www.acmicpc.net/problem/11047)|[⭕](./BOJ/cpp/11047_동전0.cpp)|❌|  
 |11726|[2xn타일링](https://www.acmicpc.net/problem/11726)|[⭕](./BOJ/cpp/11726_2xn타일링.cpp)|❌|  
 |16500|[문자열판별](https://www.acmicpc.net/problem/16500)|[⭕](./BOJ/cpp/16500_문자열판별.cpp)|❌|  
 |16958|[텔레포트](https://www.acmicpc.net/problem/16958)|[⭕](./BOJ/cpp/16958_텔레포트.cpp)|❌|  
