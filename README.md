@@ -26,6 +26,7 @@
 |1157|[단어공부](https://www.acmicpc.net/problem/1157)|[⭕](./BOJ/cpp/1157_단어공부.cpp)|❌|  
 |1260|[DFS와BFS](https://www.acmicpc.net/problem/1260)|[⭕](./BOJ/cpp/1260_DFS와BFS.cpp)|[⭕](./BOJ/python/1260_DFS와BFS.py)|
 |1263|[시간관리](https://www.acmicpc.net/problem/1152)|[⭕](./BOJ/cpp/1263_시간관리.cpp)|❌|  
+|1347|[미로만들기](https://www.acmicpc.net/problem/1347)|[⭕](./BOJ/cpp/1347_미로만들기.cpp)|❌| 
 |1389|[케빈베이컨의6단계법칙](https://www.acmicpc.net/problem/1389)|[⭕](./BOJ/cpp/1389_케빈베이컨의6단계법칙.cpp)|❌|  
 |1476|[날짜계산](https://www.acmicpc.net/problem/1476)|[⭕](./BOJ/cpp/1476_날짜계산.cpp)|❌|
 |1697|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[⭕](./BOJ/cpp/1697_숨바꼭질.cpp)|❌|  
@@ -33,6 +34,7 @@
 |2750|[수 정렬하기](https://www.acmicpc.net/problem/2750)|[⭕](./BOJ/cpp/2750_수정렬하기.cpp)|❌|  
 |3003|[킹,퀸,룩,비숍,나이트,폰](https://www.acmicpc.net/problem/3003)|[⭕](./BOJ/cpp/3003_킹,퀸,룩,비숍,나이트,폰.cpp)|❌|  
 |10813|[공바꾸기](https://www.acmicpc.net/problem/10813)|[⭕](./BOJ/cpp/10813_공바꾸기.cpp)|❌|  
+|3048|[개미](https://www.acmicpc.net/problem/3048)|[⭕](./BOJ/cpp/3048_개미.cpp)|❌| 
 |11047|[동전0](https://www.acmicpc.net/problem/11047)|[⭕](./BOJ/cpp/11047_동전0.cpp)|❌|  
 |11726|[2xn타일링](https://www.acmicpc.net/problem/11726)|[⭕](./BOJ/cpp/11726_2xn타일링.cpp)|❌|  
 |16500|[문자열판별](https://www.acmicpc.net/problem/16500)|[⭕](./BOJ/cpp/16500_문자열판별.cpp)|❌|  
@@ -43,4 +45,4 @@
 # [Specific Algorithm]
 [Dijkstra](./Specific%20Algorithm/Dijkstra)  
 [Kosaraju-Sharir](./Specific%20Algorithm/Kosaraju-Sharir)  
-[Fibonacci Heap](./Specific%20Algorithm/FibonacciHeap)
+[Fibonacci Heap](./Specific%20Algorithm/FibonacciHeap)  
