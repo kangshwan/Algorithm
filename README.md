@@ -46,4 +46,5 @@
 [Dijkstra](./Specific%20Algorithm/Dijkstra)  
 [Kosaraju-Sharir](./Specific%20Algorithm/Kosaraju-Sharir)  
 [Fibonacci Heap](./Specific%20Algorithm/FibonacciHeap)  
-[Kruskal](./Specific%20Algorithm/Kruskal)
+[Kruskal](./Specific%20Algorithm/Kruskal)  
+[Prim](./Specific%20Algorithm/Prim)
