@@ -39,6 +39,7 @@
 |11726|[2xn타일링](https://www.acmicpc.net/problem/11726)|[⭕](./BOJ/cpp/11726_2xn타일링.cpp)|❌|  
 |16500|[문자열판별](https://www.acmicpc.net/problem/16500)|[⭕](./BOJ/cpp/16500_문자열판별.cpp)|❌|  
 |16958|[텔레포트](https://www.acmicpc.net/problem/16958)|[⭕](./BOJ/cpp/16958_텔레포트.cpp)|❌|  
+|17419|[비트가넘쳐흘러](https://www.acmicpc.net/problem/17419)|[⭕](./BOJ/cpp/17419_비트가넘쳐흘러.cpp)|❌|  
 </div>
 </details>
 
