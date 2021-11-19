@@ -23,7 +23,8 @@
 |1145|[적어도 대부분의 배수](https://www.acmicpc.net/problem/1110)|[⭕](./BOJ/cpp/1145_적어도%20대부분의%20배수.cpp)|❌|
 |1152|[단어의 개수](https://www.acmicpc.net/problem/1145)|[⭕](./BOJ/cpp/1152_단어의%20개수.cpp)|❌|
 |1159|[농구경기](https://www.acmicpc.net/problem/1159)|[⭕](./BOJ/cpp/1159_농구경기.cpp)|❌|  
-|1157|[단어공부](https://www.acmicpc.net/problem/1157)|[⭕](./BOJ/cpp/1157_단어공부.cpp)|❌|  
+|1157|[단어공부](https://www.acmicpc.net/problem/1157)|[⭕](./BOJ/cpp/1157_단어공부.cpp)|❌| 
+|1173|[운동](https://www.acmicpc.net/problem/1173)|[⭕](./BOJ/cpp/1173_운동.cpp)|❌| 
 |1260|[DFS와BFS](https://www.acmicpc.net/problem/1260)|[⭕](./BOJ/cpp/1260_DFS와BFS.cpp)|[⭕](./BOJ/python/1260_DFS와BFS.py)|
 |1263|[시간관리](https://www.acmicpc.net/problem/1152)|[⭕](./BOJ/cpp/1263_시간관리.cpp)|❌|  
 |1347|[미로만들기](https://www.acmicpc.net/problem/1347)|[⭕](./BOJ/cpp/1347_미로만들기.cpp)|❌| 
