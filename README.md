@@ -22,8 +22,8 @@
 |1110|[더하기 사이클](https://www.acmicpc.net/problem/1100)|[⭕](./BOJ/cpp/1110_더하기사이클.cpp)|❌|  
 |1145|[적어도 대부분의 배수](https://www.acmicpc.net/problem/1110)|[⭕](./BOJ/cpp/1145_적어도%20대부분의%20배수.cpp)|❌|
 |1152|[단어의 개수](https://www.acmicpc.net/problem/1145)|[⭕](./BOJ/cpp/1152_단어의%20개수.cpp)|❌|
-|1159|[농구경기](https://www.acmicpc.net/problem/1159)|[⭕](./BOJ/cpp/1159_농구경기.cpp)|❌|  
 |1157|[단어공부](https://www.acmicpc.net/problem/1157)|[⭕](./BOJ/cpp/1157_단어공부.cpp)|❌| 
+|1159|[농구경기](https://www.acmicpc.net/problem/1159)|[⭕](./BOJ/cpp/1159_농구경기.cpp)|❌|  
 |1173|[운동](https://www.acmicpc.net/problem/1173)|[⭕](./BOJ/cpp/1173_운동.cpp)|❌| 
 |1260|[DFS와BFS](https://www.acmicpc.net/problem/1260)|[⭕](./BOJ/cpp/1260_DFS와BFS.cpp)|[⭕](./BOJ/python/1260_DFS와BFS.py)|
 |1263|[시간관리](https://www.acmicpc.net/problem/1152)|[⭕](./BOJ/cpp/1263_시간관리.cpp)|❌|  
@@ -34,8 +34,9 @@
 |2309|[일곱난쟁이](https://www.acmicpc.net/problem/2309)|[⭕](./BOJ/cpp/2309_일곱난쟁이.cpp)|❌|  
 |2750|[수 정렬하기](https://www.acmicpc.net/problem/2750)|[⭕](./BOJ/cpp/2750_수정렬하기.cpp)|❌|  
 |3003|[킹,퀸,룩,비숍,나이트,폰](https://www.acmicpc.net/problem/3003)|[⭕](./BOJ/cpp/3003_킹,퀸,룩,비숍,나이트,폰.cpp)|❌|  
-|10813|[공바꾸기](https://www.acmicpc.net/problem/10813)|[⭕](./BOJ/cpp/10813_공바꾸기.cpp)|❌|  
 |3048|[개미](https://www.acmicpc.net/problem/3048)|[⭕](./BOJ/cpp/3048_개미.cpp)|❌| 
+|5212|[지구온난화](https://www.acmicpc.net/problem/5212)|[⭕](./BOJ/cpp/5212_지구온난화.cpp)|❌| 
+|10813|[공바꾸기](https://www.acmicpc.net/problem/10813)|[⭕](./BOJ/cpp/10813_공바꾸기.cpp)|❌|  
 |11047|[동전0](https://www.acmicpc.net/problem/11047)|[⭕](./BOJ/cpp/11047_동전0.cpp)|❌|  
 |11726|[2xn타일링](https://www.acmicpc.net/problem/11726)|[⭕](./BOJ/cpp/11726_2xn타일링.cpp)|❌|  
 |16500|[문자열판별](https://www.acmicpc.net/problem/16500)|[⭕](./BOJ/cpp/16500_문자열판별.cpp)|❌|  
