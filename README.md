@@ -39,6 +39,7 @@
 |3048|[개미](https://www.acmicpc.net/problem/3048)|[⭕](./BOJ/cpp/3048_개미.cpp)|❌| 
 |5212|[지구온난화](https://www.acmicpc.net/problem/5212)|[⭕](./BOJ/cpp/5212_지구온난화.cpp)|❌| 
 |10813|[공바꾸기](https://www.acmicpc.net/problem/10813)|[⭕](./BOJ/cpp/10813_공바꾸기.cpp)|❌|  
+|10844|[쉬운계단수](https://www.acmicpc.net/problem/10844)|[⭕](./BOJ/cpp/10844_쉬운계단수.cpp)|❌|  
 |11047|[동전0](https://www.acmicpc.net/problem/11047)|[⭕](./BOJ/cpp/11047_동전0.cpp)|❌|  
 |11726|[2xn타일링](https://www.acmicpc.net/problem/11726)|[⭕](./BOJ/cpp/11726_2xn타일링.cpp)|❌|  
 |14916|[거스름돈](https://www.acmicpc.net/problem/14916)|[⭕](./BOJ/cpp/14916_거스름돈.cpp)|❌|  
