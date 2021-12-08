@@ -34,6 +34,7 @@
 |1912|[연속합](https://www.acmicpc.net/problem/1912)|[⭕](./BOJ/cpp/1912_연속합.cpp)|❌| 
 |1958|[LCS3](https://www.acmicpc.net/problem/1958)|[⭕](./BOJ/cpp/1958_LCS3.cpp)|❌|  
 |2309|[일곱난쟁이](https://www.acmicpc.net/problem/2309)|[⭕](./BOJ/cpp/2309_일곱난쟁이.cpp)|❌|  
+|2636|[치즈](https://www.acmicpc.net/problem/2636)|[⭕](./BOJ/cpp/2636_치즈.cpp)|❌|  
 |2750|[수 정렬하기](https://www.acmicpc.net/problem/2750)|[⭕](./BOJ/cpp/2750_수정렬하기.cpp)|❌|  
 |3003|[킹,퀸,룩,비숍,나이트,폰](https://www.acmicpc.net/problem/3003)|[⭕](./BOJ/cpp/3003_킹,퀸,룩,비숍,나이트,폰.cpp)|❌|  
 |3048|[개미](https://www.acmicpc.net/problem/3048)|[⭕](./BOJ/cpp/3048_개미.cpp)|❌| 
