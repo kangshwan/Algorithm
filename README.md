@@ -49,6 +49,7 @@
 |16958|[텔레포트](https://www.acmicpc.net/problem/16958)|[⭕](./BOJ/cpp/16958_텔레포트.cpp)|❌|  
 |17419|[비트가넘쳐흘러](https://www.acmicpc.net/problem/17419)|[⭕](./BOJ/cpp/17419_비트가넘쳐흘러.cpp)|❌|  
 |18405|[경쟁적전염](https://www.acmicpc.net/problem/18405)|[⭕](./BOJ/cpp/18405_경쟁적전염.cpp)|❌|  
+|13460|[구슬탈출2](https://www.acmicpc.net/problem/13460)|❌|[⭕](./BOJ/cpp/13460_구슬탈출2.py)|
 </div>
 </details>
 
