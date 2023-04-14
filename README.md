@@ -53,6 +53,7 @@
 |13458|[시험감독](https://www.acmicpc.net/problem/13458)|❌|[⭕](./BOJ/python/13458_시험감독.py)|
 |14499|[주사위굴리기](https://www.acmicpc.net/problem/14499)|❌|[⭕](./BOJ/python/14499_주사위굴리기.py)|
 |14500|[테트로미노](https://www.acmicpc.net/problem/14500)|❌|[⭕](./BOJ/python/14500_테트로미노.py)|
+|14501|[퇴사](https://www.acmicpc.net/problem/14501)|❌|[⭕](./BOJ/python/14501_퇴사.py)|
 </div>
 </details>
 
