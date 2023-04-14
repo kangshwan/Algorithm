@@ -50,7 +50,8 @@
 |17419|[비트가넘쳐흘러](https://www.acmicpc.net/problem/17419)|[⭕](./BOJ/cpp/17419_비트가넘쳐흘러.cpp)|❌|  
 |18405|[경쟁적전염](https://www.acmicpc.net/problem/18405)|[⭕](./BOJ/cpp/18405_경쟁적전염.cpp)|❌|  
 |13460|[구슬탈출2](https://www.acmicpc.net/problem/13460)|❌|[⭕](./BOJ/cpp/13460_구슬탈출2.py)|
-|13458|[시험감독](https://www.acmicpc.net/problem/13458)|❌|[⭕](./BOJ/cpp/13460_시험감독.py)|
+|13458|[시험감독](https://www.acmicpc.net/problem/13458)|❌|[⭕](./BOJ/cpp/13458_시험감독.py)|
+|14499|[주사위굴리기](https://www.acmicpc.net/problem/14499)|❌|[⭕](./BOJ/cpp/14499_주사위굴리기.py)|
 </div>
 </details>
 
