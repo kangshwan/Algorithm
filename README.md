@@ -57,6 +57,11 @@
 |14502|[연구소](https://www.acmicpc.net/problem/14502)|❌|[⭕](./BOJ/python/14502_연구소.py)|
 |14503|[로봇청소기](https://www.acmicpc.net/problem/14503)|❌|[⭕](./BOJ/python/14503_로봇청소기.py)|
 |14889|[스타트와링크](https://www.acmicpc.net/problem/14889)|❌|[⭕](./BOJ/python/14889_스타트와링크.py)|
+|14890|[경사로](https://www.acmicpc.net/problem/14890)|❌|[⭕](./BOJ/python/14890_경사로.py)|
+|1475|[방번호](https://www.acmicpc.net/problem/1475)|[⭕](./BOJ/cpp/1475_방번호.cpp)|❌|  
+|2577|[숫자의개수](https://www.acmicpc.net/problem/2577)|[⭕](./BOJ/cpp/2577_숫자의개수.cpp)|❌|  
+|3273|[두수의합](https://www.acmicpc.net/problem/3273)|[⭕](./BOJ/cpp/3273_두수의합.cpp)|❌|  
+|10808|[알파벳개수](https://www.acmicpc.net/problem/18405)|[⭕](./BOJ/cpp/18405_알파벳개수.cpp)|❌|  
 </div>
 </details>
 
