@@ -1,8 +1,16 @@
 # Algorithm
 <img src="https://cdn.discordapp.com/attachments/837197524989116469/893160736979828756/nice-old-man.gif"/>
+
+<style>
+    summary {
+      font-size: 1.5em; /* 20% larger than the default font size */
+      font-weight: bold;
+      cursor: pointer;
+    }
+</style>
 <details>
-<summary>😎 I have done....  </summary>
-<div markdown="1">
+    <summary>😎 I have done....  </summary>
+    <div markdown="1">
 
 <!-- 
 |번호|[이름](https://www.acmicpc.net/problem/번호)|[⭕](./BOJ/cpp/번호_이름.cpp)|❌|  
@@ -62,8 +70,20 @@
 |2577|[숫자의개수](https://www.acmicpc.net/problem/2577)|[⭕](./BOJ/cpp/2577_숫자의개수.cpp)|❌|  
 |3273|[두수의합](https://www.acmicpc.net/problem/3273)|[⭕](./BOJ/cpp/3273_두수의합.cpp)|❌|  
 |10808|[알파벳개수](https://www.acmicpc.net/problem/18405)|[⭕](./BOJ/cpp/18405_알파벳개수.cpp)|❌|  
+    </div>
+</details>
+
+<details>
+<summary>💥BaarkingDog 부수기💥  </summary>
+<div markdown="1">
+
+|번호|주제|진행도|
+|:--:|:--:|:--:|
+|0x03|[배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md)|![50%](https://progress-bar.dev/4/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
+
 </div>
 </details>
+
 
 # [Specific Algorithm]
 [Dijkstra](./Specific%20Algorithm/Dijkstra)  
