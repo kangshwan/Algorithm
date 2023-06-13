@@ -8,6 +8,22 @@
       cursor: pointer;
     }
 </style>
+
+<details>
+<summary>💥BaarkingDog 부수기💥  </summary>
+<div markdown="1">
+
+|번호|주제|진행도|
+|:--:|:--:|:--:|
+|0x03|[배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md)|![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
+|0x04|[연결리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)|![0%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/3)
+|0x05|[스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)|![0%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
+|0x06|[큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)|![0%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/3)
+|0x06|[덱](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x07.md)|![0%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/4)
+
+</div>
+</details>
+
 <details>
     <summary>😎 I have done....  </summary>
     <div markdown="1">
@@ -72,18 +88,6 @@
 |10808|[알파벳개수](https://www.acmicpc.net/problem/18405)|[⭕](./BOJ/cpp/18405_알파벳개수.cpp)|❌|  
     </div>
 </details>
-
-<details>
-<summary>💥BaarkingDog 부수기💥  </summary>
-<div markdown="1">
-
-|번호|주제|진행도|
-|:--:|:--:|:--:|
-|0x03|[배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md)|![50%](https://progress-bar.dev/4/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
-
-</div>
-</details>
-
 
 # [Specific Algorithm]
 [Dijkstra](./Specific%20Algorithm/Dijkstra)  

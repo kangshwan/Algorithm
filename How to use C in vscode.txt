@@ -1,0 +1,4 @@
+https://webnautes.tistory.com/1158
+
+Ctrl+Alt+C : compile
+Ctrl+Alt+R : execute (use to exefile)
