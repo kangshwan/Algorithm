@@ -21,4 +21,7 @@
 .history
 .ionide
 
+# Ignore files with extension `.exe`
+*.exe
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
