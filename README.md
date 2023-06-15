@@ -19,7 +19,7 @@
 |0x04|[연결리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)|![0%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/3)
 |0x05|[스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)|![0%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
 |0x06|[큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)|![0%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/3)
-|0x06|[덱](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x07.md)|![0%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/4)
+|0x07|[덱](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x07.md)|![0%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/4)
 
 </div>
 </details>
