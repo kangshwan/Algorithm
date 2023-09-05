@@ -9,6 +9,8 @@ queue<pair<int, int>> Q;
 int N, M;
 
 int main(){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
     cin >> N >> M;
     string line;
     for(int i = 0 ; i < N ; i++){

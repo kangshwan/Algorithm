@@ -32,6 +32,8 @@ int BFS(int x, int y){
     return size;
 }
 int main(){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
     int numPic = 0;
     int maxPic = 0;
     cin >> n >> m;
