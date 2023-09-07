@@ -2,59 +2,69 @@
 #define X first
 #define Y second
 using namespace std;
-
-string board[1000];
-int visT[1000][1000]; //visited Time
 int dx[4] = {0,1,0,-1};
 int dy[4] = {1,0,-1,0};
-int R, C;
-queue<pair<int, int>> Fq;
-queue<pair<int, int>> Jq;
+string board[1002];
+// 불
+int dist1[1002][1002];
+// 상근이
+int dist2[1002][1002];
+int T, w, h;
 int main(){
     ios::sync_with_stdio(0);
     cin.tie(0);
-    cin >> R >> C;
-    for(int i = 0 ; i < R ; i++){
-        cin >> board[i];
-        for(int j = 0 ; j < C ; j++){
-            if(board[i][j] == 'J'){
-                Jq.push({i,j});
+    cin >> T;
+    while(T--){
+        queue<pair<int, int>> Q1;
+        queue<pair<int, int>> Q2;
+        bool impossible = true;
+        cin >> w >> h;
+        for(int i = 0 ; i < h ; i++){
+            cin >> board[i];
+            for(int j = 0 ; j < w ; j++){
+                dist1[i][j] = -1;
+                dist2[i][j] = -1;
+                if(board[i][j] == '*'){
+                    dist1[i][j] = 0;
+                    Q1.push({i, j});
+                }
+                if(board[i][j] == '@'){
+                    dist2[i][j] = 0;
+                    Q2.push({i, j});
+                }
+            }   
+        }
+        // cout << "FIRE" << '\n';
+        while(!Q1.empty()){
+            auto cur = Q1.front(); Q1.pop();
+            // cout << cur.X << ' ' << cur.Y<<'\n';
+            for(int dir = 0 ; dir < 4 ; dir++){
+                int nx = cur.X + dx[dir];
+                int ny = cur.Y + dy[dir];
+                if(nx < 0 || nx >= h || ny < 0 || ny >= w) continue;
+                if(dist1[nx][ny] != -1 || board[nx][ny] != '.') continue;
+                dist1[nx][ny] = dist1[cur.X][cur.Y] + 1;
+                Q1.push({nx, ny});
             }
-            if(board[i][j] == 'F'){
-                Fq.push({i,j});
-                visT[i][j]=1;
+        }
+        while(!Q2.empty()){
+            auto cur = Q2.front(); Q2.pop();
+            // cout << cur.X << ' ' << cur.Y<<'\n';
+            if(cur.X == 0 || cur.X == h-1 || cur.Y == 0 || cur.Y == w-1){
+                cout << dist2[cur.X][cur.Y] + 1 << '\n';
+                impossible = false;
+                break;
+            }
+            for(int dir = 0 ; dir < 4 ; dir++){
+                int nx = cur.X + dx[dir];
+                int ny = cur.Y + dy[dir];
+                if(nx < 0 || nx >= h || ny < 0 || ny >= w) continue;
+                if(dist2[nx][ny] != -1 || board[nx][ny] == '#') continue;
+                if(dist1[nx][ny] != -1 && dist2[cur.X][cur.Y]+1 >= dist1[nx][ny]) continue;
+                dist2[nx][ny] = dist2[cur.X][cur.Y] + 1;
+                Q2.push({nx,ny});
             }
         }
+        if(impossible) cout << "IMPOSSIBLE" << '\n';
     }
-    while(!Fq.empty()){
-        auto cur = Fq.front(); Fq.pop();
-        for(int i = 0 ; i < 4 ; i++){
-            int nx = cur.X + dx[i];
-            int ny = cur.Y + dy[i];
-            if(nx < 0 || nx >= R || ny < 0 || ny >= C) continue;
-            if(board[nx][ny] == '#' || visT[nx][ny]) continue;
-            Fq.push({nx,ny});
-            visT[nx][ny] = visT[cur.X][cur.Y] + 1;
-        }
-    }
-
-    auto cur = Jq.front();
-    visT[cur.X][cur.Y] = 1;
-    while(!Jq.empty()){
-        cur = Jq.front(); Jq.pop();
-        if(cur.X == 0 || cur.X == R-1 || cur.Y == 0 || cur.Y == C-1){
-            cout << visT[cur.X][cur.Y];
-            return 0;
-        }
-        for(int i = 0 ; i < 4 ; i++){
-            int nx = cur.X + dx[i];
-            int ny = cur.Y + dy[i];
-            if(nx < 0 || nx >= R || ny < 0 || ny >= C) continue;
-            if(board[nx][ny] == '#') continue;
-            if(visT[nx][ny] && visT[cur.X][cur.Y] + 1 >= visT[nx][ny]) continue;
-            Jq.push({nx,ny});
-            visT[nx][ny] = visT[cur.X][cur.Y] + 1;
-        }
-    }
-    cout << "IMPOSSIBLE";
 }
