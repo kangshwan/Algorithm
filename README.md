@@ -17,6 +17,8 @@
 |0x0A| DFS(문제집 X) |
 |0x0B|[재귀](./BreakBaaarkingDog/0x0B/0x0B.md)|![0%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
 |0x0C|[백트래킹](./BreakBaaarkingDog/0x0C/0x0C.md)|![0%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20)
+|0x0D|[시뮬레이션](./BreakBaaarkingDog/0x0D/0x0D.md)|![0%](https://progress-bar.dev/0/?scale=61&title=progress&width=500&color=babaca&suffix=/61)
+
 </div>
 </details>
 
