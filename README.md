@@ -13,7 +13,7 @@
 |0x06|[큐](./BreakBaaarkingDog/0x06/0x06.md)|![100%](https://progress-bar.dev/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3)
 |0x07|[덱](./BreakBaaarkingDog/0x07/0x07.md)|![100%](https://progress-bar.dev/4/?scale=4&title=progress&width=500&color=babaca&suffix=/4)
 |0x08|[스택의 활용](./BreakBaaarkingDog/0x08/0x08.md)|![100%](https://progress-bar.dev/5/?scale=5&title=progress&width=500&color=babaca&suffix=/5)
-|0x09|[BFS](./BreakBaaarkingDog/0x09/0x09.md)|![26%](https://progress-bar.dev/15/?scale=30&title=progress&width=500&color=babaca&suffix=/30)
+|0x09|[BFS](./BreakBaaarkingDog/0x09/0x09.md)|![76%](https://progress-bar.dev/23/?scale=30&title=progress&width=500&color=babaca&suffix=/30)
 |0x0A| DFS(문제집 X) |
 |0x0B|[재귀](./BreakBaaarkingDog/0x0B/0x0B.md)|![0%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
 |0x0C|[백트래킹](./BreakBaaarkingDog/0x0C/0x0C.md)|![0%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20)
