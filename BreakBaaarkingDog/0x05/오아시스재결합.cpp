@@ -3,7 +3,8 @@
 #define Y second
 using namespace std;
 
-int N, answer;
+int N;
+long long answer;
 stack<pair<int, int>> S;
 int main(){
     ios::sync_with_stdio(0);
@@ -12,15 +13,14 @@ int main(){
     int h;
     while (N--){
         cin >> h;
-        if(S.empty()) S.push({h,0});
-        else{
-            if (S.top().X <= h) S.push({h, S.top().Y+1});
-            else S.top().Y++;
+        int cnt = 1;
+        while(!S.empty() && S.top().X <= h){
+            answer += S.top().Y;
+            if(S.top().X == h) cnt += S.top().Y;
+            S.pop();
         }
-    }
-    while(!S.empty()){
-        answer += S.top().Y;
-        S.pop();
+        if(!S.empty()) answer++;
+        S.push({h, cnt});
     }
     cout << answer;
 }
