@@ -7,11 +7,17 @@
 
 |번호|주제|진행도|
 |:--:|:--:|:--:|
-|0x03|[배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md)|![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
-|0x04|[연결리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)|![100%](https://progress-bar.dev/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3)
-|0x05|[스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)|![0%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
-|0x06|[큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)|![0%](https://progress-bar.dev/0/?scale=3&title=progress&width=500&color=babaca&suffix=/3)
-|0x07|[덱](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x07.md)|![0%](https://progress-bar.dev/0/?scale=4&title=progress&width=500&color=babaca&suffix=/4)
+|0x03|[배열](./BreakBaaarkingDog/0x03/0x03.md)|![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
+|0x04|[연결리스트](./BreakBaaarkingDog/0x04/0x04.md)|![100%](https://progress-bar.dev/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3)
+|0x05|[스택](./BreakBaaarkingDog/0x05/0x05.md)|![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8)
+|0x06|[큐](./BreakBaaarkingDog/0x06/0x06.md)|![100%](https://progress-bar.dev/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3)
+|0x07|[덱](./BreakBaaarkingDog/0x07/0x07.md)|![100%](https://progress-bar.dev/4/?scale=4&title=progress&width=500&color=babaca&suffix=/4)
+|0x08|[스택의 활용](./BreakBaaarkingDog/0x08/0x08.md)|![100%](https://progress-bar.dev/5/?scale=5&title=progress&width=500&color=babaca&suffix=/5)
+|0x09|[BFS](./BreakBaaarkingDog/0x09/0x09.md)|![76%](https://progress-bar.dev/23/?scale=30&title=progress&width=500&color=babaca&suffix=/30)
+|0x0A| DFS(문제집 X) |
+|0x0B|[재귀](./BreakBaaarkingDog/0x0B/0x0B.md)|![0%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10)
+|0x0C|[백트래킹](./BreakBaaarkingDog/0x0C/0x0C.md)|![0%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20)
+|0x0D|[시뮬레이션](./BreakBaaarkingDog/0x0D/0x0D.md)|![0%](https://progress-bar.dev/0/?scale=61&title=progress&width=500&color=babaca&suffix=/61)
 
 </div>
 </details>
